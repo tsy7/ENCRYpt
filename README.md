@@ -1,2 +1,2 @@
 # ENCRYpt
-ENCRYpt.
+encrypt MD5
